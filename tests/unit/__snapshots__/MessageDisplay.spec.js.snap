@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MessageDisplay Calls getMessage once and displays message 1`] = `"Hello from the db"`;
+
+exports[`MessageDisplay Calls getMessage once, fails and and displays message 1`] = `"Oops! Something went wrong."`;
